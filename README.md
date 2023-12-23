@@ -1,2 +1,2 @@
-# Basic-Html-Css-Codes
+# VAD Exercise
 Basic entry level html-CSS project
